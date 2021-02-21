@@ -1,4 +1,6 @@
-# CS305-Module-Eight-J
+# CS305-Module-Eight-Journal
+
+### Project One Reflection
 
 # Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 
